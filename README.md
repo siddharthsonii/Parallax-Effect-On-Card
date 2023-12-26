@@ -1,4 +1,4 @@
-# Parallax Effect On Card Using Vanilla-Tilt.js
+# Parallax Effect On Card Using Vanilla-Tilt JS
 
 ![](Screenshot%20(92).png)
 ![](Screenshot%20(93).png)
